@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Scala][Type Erasure](scala_type_erasure.md)
 
